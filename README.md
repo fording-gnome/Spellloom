@@ -205,4 +205,4 @@ This repository serves as the official landing page for Spellloom. The software 
 **Get the most recent version of Spellloom today!**
 
 ---
-**Last updated:** 2026-11-08 20:53:28 UTC
+**Last updated:** 2026-11-09 00:18:59 UTC
